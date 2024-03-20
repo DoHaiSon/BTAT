@@ -1,0 +1,64 @@
+.logo {
+  width: 5%;
+}
+
+.ivo {
+  width: 10%;
+}
+
+.youtube {
+  width: 1064px;
+  height: 598.5px;
+}
+
+.dashboard {
+  width: 30%;
+}
+
+.footer {
+  width: 40%;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 25%;
+  padding: 25px;
+}
+
+.model {
+  width: 60%;
+}
+
+table {
+  height: 300px;
+  overflow: scroll;
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    width: 30%;
+  }
+  .ivo {
+    width: 30%;
+  }
+  .model {
+    width: 100%;
+  }
+  .dashboard {
+    width: 80%;
+  }
+  .footer {
+    width: 100%;
+  }
+  .column {
+    padding: 5px;
+  }
+  .youtube {
+    width: 80%;
+    height: 30%
+  }  
+}
