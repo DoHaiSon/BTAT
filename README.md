@@ -1,6 +1,6 @@
 ## BTAD: Blockchain transaction attack dataset
 
-> #### Contact: Mr. Viet Khoa Tran, 
+> #### Contact: Dr. Viet Khoa Tran, 
 > #### - Cyber Security Engineer at the University of Canberra (UC). Email: [ khoa.tran@canberra.edu.au](mailto:khoa.tran@canberra.edu.au) 
 
 ## Dataset overview
