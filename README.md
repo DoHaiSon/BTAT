@@ -1,4 +1,4 @@
-## BTAD: Blockchain transaction attack dataset
+## BTAD: Blockchain Transaction-based Attacks dataset
 
 > #### Contact: Dr. Viet Khoa Tran, 
 > #### - Cyber Security Engineer at the University of Canberra (UC). Email: [ khoa.tran@canberra.edu.au](mailto:khoa.tran@canberra.edu.au) 
@@ -28,7 +28,7 @@ We give a brief description of the six types of application layer-based attacks:
 
 <span style="color:red; font-size:22px"><b>This dataset is free for use for academic purposes such as study and research. However, using this dataset for commercial purposes requires approval from the authors. The details of the BTAD dataset were published in the following paper. For academic or public use of this dataset, the authors must cite the following paper:</b></span>
 
-<span style="font-size:18px"> Tran Viet Khoa, Do Hai Son, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Nguyen Linh Trung, Tran Thi Thuy Quynh, Trong-Minh Hoang, Nguyen Viet Ha, Eryk Dutkiewicz, and Mohammad Abu Alsheikh, "Securing Blockchain Systems: A Novel Collaborative Learning Framework for Transactions and Smart Contracts Attack Detection"," <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, Mar. 2024. (submitted) <a href="https://arxiv.org/abs/2308.15804" target="_blank">[pre-print]</a><span>
+<span style="font-size:18px"> Tran Viet Khoa, Do Hai Son, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Nguyen Linh Trung, Tran Thi Thuy Quynh, Trong-Minh Hoang, Nguyen Viet Ha, Eryk Dutkiewicz, and Mohammad Abu Alsheikh, "Collaborative Learning Framework to Detect Hidden Attacks in Transactions and Smart Contracts," <i>IEEE Transactions on Services Computing</i>, Aug. 2024. (submitted) <a href="https://arxiv.org/abs/2308.15804" target="_blank">[pre-print]</a><span>
 
 ## Acknowledgements
 
