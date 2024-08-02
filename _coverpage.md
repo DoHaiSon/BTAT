@@ -2,10 +2,10 @@
 
 # **BTAD**
 
-> Blockchain Transaction Attack Dataset
+> Blockchain Transaction-based Attacks Dataset
 
 <img class="dashboard" src="./assets/img/Cover.png">
 
 
 [Getting Started](README.md)
-[Download](https://github.com/avitech-vnu/BTAD/archive/refs/heads/master.zip)
+[Download](https://github.com/avitech-vnu/BTAT/archive/refs/heads/master.zip)
