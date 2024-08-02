@@ -1,6 +1,6 @@
 <img class="logo" src="./assets/img/Logo.png">
 
-# **BTAD**
+# **BTAT**
 
 > Blockchain Transaction-based Attacks Dataset
 
